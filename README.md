@@ -1,3 +1,5 @@
+directly from: http://www.codeomnib.us/ember-cli-beginner-tutorial/
+
 # Demo-app
 
 This README outlines the details of collaborating on this Ember application.
